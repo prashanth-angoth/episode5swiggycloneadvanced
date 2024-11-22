@@ -1,7 +1,8 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-/* Header
+/*initial low level design of swiggy clone apps
+  Header
    -logo
    -Nav items
   Body
