@@ -1,0 +1,28 @@
+{
+  "name": "episode4",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashanth-angoth/namsteReactepisode4.git"
+  },
+  "author": "prashanth angoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashanth-angoth/namsteReactepisode4/issues"
+  },
+  "homepage": "https://github.com/prashanth-angoth/namsteReactepisode4#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
