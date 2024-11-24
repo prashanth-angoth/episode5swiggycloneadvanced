@@ -44,3 +44,7 @@ display: flex;
 h4{
     word-wrap: break-word;
 }
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
